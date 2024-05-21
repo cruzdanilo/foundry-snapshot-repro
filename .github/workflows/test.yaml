@@ -12,4 +12,4 @@ jobs:
         with:
           submodules: recursive
       - uses: foundry-rs/foundry-toolchain@v1
-      - run: for i in {1..16}; do forge snapshot --force | grep runs; done
+      - run: forge snapshot --force --check
