@@ -6,6 +6,7 @@ import { Test } from "forge-std/Test.sol";
 import { Utils, WebAuthnInfo } from "webauthn-sol/../test/Utils.sol";
 import { WebAuthn } from "webauthn-sol/WebAuthn.sol";
 
+/// @dev Some comment.
 contract SnapshotTest is Test {
   using Utils for uint256;
   using Utils for bytes32;

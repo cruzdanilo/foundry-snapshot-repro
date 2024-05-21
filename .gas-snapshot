@@ -1,1 +1,1 @@
-SnapshotTest:test_snapshot((bytes,bytes,uint256,uint256,uint256)) (runs: 256, μ: 408696, ~: 408345)
+SnapshotTest:test_snapshot((bytes,bytes,uint256,uint256,uint256)) (runs: 256, μ: 408004, ~: 408226)
